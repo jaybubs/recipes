@@ -1,0 +1,51 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/bd612ba3/
+Breads	recipes.tex	/^\\section{Breads}%$/;"	s
+Bryndzove halusky	recipes.tex	/^\\subsection{Bryndzove halusky}%$/;"	u	section:Potato dishes
+Czech Bread	recipes.tex	/^\\subsection{Czech Bread}%$/;"	u	section:Breads
+Focaccia	recipes.tex	/^\\subsection{Focaccia}%$/;"	u	section:Breads
+Goulash	recipes.tex	/^\\subsection{Goulash}%$/;"	u	section:Soups and stews
+Halusky	recipes.tex	/^\\subsection{Halusky}%$/;"	u	section:Potato dishes
+Ingredients	recipes.tex	/^\\subsubsection{Ingredients}%$/;"	b	subsection:Breads""Czech Bread
+Ingredients	recipes.tex	/^\\subsubsection{Ingredients}%$/;"	b	subsection:Breads""Focaccia
+Ingredients	recipes.tex	/^\\subsubsection{Ingredients}%$/;"	b	subsection:Potato dishes""Bryndzove halusky
+Ingredients	recipes.tex	/^\\subsubsection{Ingredients}%$/;"	b	subsection:Potato dishes""Halusky
+Ingredients	recipes.tex	/^\\subsubsection{Ingredients}%$/;"	b	subsection:Soups and stews""Goulash
+Ingredients	recipes.tex	/^\\subsubsection{Ingredients}%$/;"	b	subsection:Soups and stews""Perkelt
+Perkelt	recipes.tex	/^\\subsection{Perkelt}%$/;"	u	section:Soups and stews
+Potato dishes	recipes.tex	/^\\section{Potato dishes}%$/;"	s
+Procedure	recipes.tex	/^\\subsubsection{Procedure}%$/;"	b	subsection:Breads""Czech Bread
+Procedure	recipes.tex	/^\\subsubsection{Procedure}%$/;"	b	subsection:Breads""Focaccia
+Procedure	recipes.tex	/^\\subsubsection{Procedure}%$/;"	b	subsection:Potato dishes""Bryndzove halusky
+Procedure	recipes.tex	/^\\subsubsection{Procedure}%$/;"	b	subsection:Potato dishes""Halusky
+Procedure	recipes.tex	/^\\subsubsection{Procedure}%$/;"	b	subsection:Soups and stews""Goulash
+Procedure	recipes.tex	/^\\subsubsection{Procedure}%$/;"	b	subsection:Soups and stews""Perkelt
+Soups and stews	recipes.tex	/^\\section{Soups and stews}%$/;"	s
+recipes	README.md	/^# recipes$/;"	c
+sec:breads	recipes.tex	/^\\label{sec:breads}$/;"	l
+sec:potato_dishes	recipes.tex	/^\\label{sec:potato_dishes}$/;"	l
+sec:soups	recipes.tex	/^\\label{sec:soups}$/;"	l
+ssub:bryndzove_halusky_ingredients	recipes.tex	/^\\label{ssub:bryndzove_halusky_ingredients}$/;"	l
+ssub:bryndzove_halusky_procedure	recipes.tex	/^\\label{ssub:bryndzove_halusky_procedure}$/;"	l
+ssub:czech_bread_ingredients	recipes.tex	/^\\label{ssub:czech_bread_ingredients}$/;"	l
+ssub:czech_bread_procedure	recipes.tex	/^\\label{ssub:czech_bread_procedure}$/;"	l
+ssub:focaccia_ingredients	recipes.tex	/^\\label{ssub:focaccia_ingredients}$/;"	l
+ssub:focaccia_procedure	recipes.tex	/^\\label{ssub:focaccia_procedure}$/;"	l
+ssub:goulash_ingredients	recipes.tex	/^\\label{ssub:goulash_ingredients}$/;"	l
+ssub:goulash_procedure	recipes.tex	/^\\label{ssub:goulash_procedure}$/;"	l
+ssub:halusky_ingredients	recipes.tex	/^\\label{ssub:halusky_ingredients}$/;"	l
+ssub:halusky_procedure	recipes.tex	/^\\label{ssub:halusky_procedure}$/;"	l
+ssub:ingredients	recipes.tex	/^\\label{ssub:ingredients}$/;"	l
+ssub:procedure	recipes.tex	/^\\label{ssub:procedure}$/;"	l
+sub:bryndzove_halusky	recipes.tex	/^\\label{sub:bryndzove_halusky}$/;"	l
+sub:czech_bread	recipes.tex	/^\\label{sub:czech_bread}$/;"	l
+sub:focaccia	recipes.tex	/^\\label{sub:focaccia}$/;"	l
+sub:goulash	recipes.tex	/^\\label{sub:goulash}$/;"	l
+sub:halusky	recipes.tex	/^\\label{sub:halusky}$/;"	l
+sub:perkelt	recipes.tex	/^\\label{sub:perkelt}$/;"	l
